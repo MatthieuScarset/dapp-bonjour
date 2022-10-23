@@ -1,6 +1,10 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.9;
 
+// GOERLI
+// Address: 0x990B00176b4226e8077034fE3105a8C87d7dadFA
+// Deployer: 0xf23b38099188fd5892346104bBEF2F1c11D10244
+
 contract Bonjour {
     address public owner;
 
